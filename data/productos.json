@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nike Huarache",
+        "descripcion": "Unisex",
+        "precio": 50000,
+        "imagen": "huarache-roja.jpg",
+        "cat": "Categoria 1",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Air Jordan 1 Retro",
+        "descripcion": "Unisex, low",
+        "precio": 50000,
+        "imagen": "jordan-retro.jpg",
+        "cat": "Categoria 1",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "nombre": "Air Jordan 1 Toe",
+        "descripcion": "Unisex, low",
+        "precio": 50000,
+        "imagen": "jordan-toe.jpg",
+        "cat": "Categoria 1",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "nombre": "Air Jordan 1 White ",
+        "descripcion": "Unisex, low",
+        "precio": 50000,
+        "imagen": "jordan-white.png",
+        "cat": "Categoria 1",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 5,
+        "nombre": "Air Jordan 1 Grey",
+        "descripcion": "Unisex,",
+        "precio": 50000,
+        "imagen": "jordan-grey.jpg",
+        "cat": "Categoria 1",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 6,
+        "nombre": "Air Force UV",
+        "descripcion": "Unisex, edicion limitada, low",
+        "precio": 50000,
+        "imagen": "airforce6edit.jpg",
+        "cat": "Categoria 2",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 7,
+        "nombre": "Jordan Flyer",
+        "descripcion": "Unisex, botita, multicolor",
+        "precio": 50000,
+        "imagen": "jordan-flyer.jpg",
+        "cat": "Categoria 2",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 8,
+        "nombre": "Air Max 97",
+        "descripcion": "Unisex, escala de grises",
+        "precio": 50000,
+        "imagen": "max-97.jpg",
+        "cat": "Categoria 2",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 9,
+        "nombre": "SB Dior",
+        "descripcion": "Unisex, edicion limitada, low",
+        "precio": 25000,
+        "imagen": "sb-dior.jpg",
+        "cat": "Categoria 2",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 10,
+        "nombre": "Air Jordan 1 Brown",
+        "descripcion": "Unisex, edicion limitada, low",
+        "precio": 50000,
+        "imagen": "jordan-brown.jpg",
+        "cat": "Categoria 2",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 11,
+        "nombre": "Air Jordan 1 Ice",
+        "descripcion": "Unisex, edicion limitada, low",
+        "precio": 50000,
+        "imagen": "jordan-ice.jpg",
+        "cat": "Categoria 3",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 12,
+        "nombre": "Air Jordan 1 OG",
+        "descripcion": "Unisex, edicion limitada, low",
+        "precio": 50000,
+        "imagen": "sb-dior.jpg",
+        "cat": "Categoria 3",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 13,
+        "nombre": "Air Force Grey",
+        "descripcion": "Unisex, edicion limitada",
+        "precio": 50000,
+        "imagen": "airforce4.jpg",
+        "cat": "Categoria 3",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 14,
+        "nombre": "Air Force Color",
+        "descripcion": "Unisex, edicion limitada",
+        "precio": 50000,
+        "imagen": "airforce8edit.jpg",
+        "cat": "Categoria 3",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      },
+      {
+        "id": 15,
+        "nombre": "Air Jordan 1 StarFish",
+        "descripcion": "Unisex, edicion limitada",
+        "precio": 50000,
+        "imagen": "jordan-starfish.png",
+        "cat": "Categoria 3",
+        "talles": [6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+        "stock": 10
+      }
+  ]
+  
