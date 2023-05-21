@@ -23,7 +23,7 @@
             </figure>
                 
             <div class="card-body">
-                <h5 class="card-title bs-3">Jeremias Regalzi</h5>
+                <h1 class="card-title bs-3">Jeremias Regalzi</h1>
                 
                     <p>Edad: 20 años</p>
                     <p>Correo Electronico: jeremias.regalzi@davinci.edu.ar</p>

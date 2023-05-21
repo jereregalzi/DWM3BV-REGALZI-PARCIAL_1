@@ -19,7 +19,7 @@
     ?>
 
 <section id="catalogo" class="container-fluid my-5">
-  <h2 class="text-center py-4 display-4"><a id="tienda">Tienda</a></h2>
+  <h1 class="text-center py-4 display-4"><a id="tienda">Tienda</a></h1>
   
   <?php
     include 'productos.php';
