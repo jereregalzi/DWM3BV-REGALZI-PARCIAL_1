@@ -21,10 +21,14 @@
 <section id="catalogo" class="container-fluid my-5">
   <h1 class="text-center py-4 display-4"><a id="tienda">Tienda</a></h1>
   
-  <?php
-    include 'productos.php';
-  ?>      
-                         
+    <?php
+    include 'insert-bd.php';
+  ?>    
+              
+    <?php
+    include 'call-bd.php'
+    ?>            
+
 </section>
             
 
